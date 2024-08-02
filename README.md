@@ -1,0 +1,1 @@
+The Educational Chatbot is designed to assist students in their learning process by providing automated responses to frequently asked questions, explanations on various academic topics, and resources for further study. The primary goal of this chatbot is to enhance accessibility and efficiency in education by leveraging natural language processing and machine learning techniques.
